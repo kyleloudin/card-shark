@@ -1,0 +1,21 @@
+<h1 id="tableLabel">Shuffle Up and Deal</h1>
+
+<p *ngIf="!cards"><em>Loading...</em></p>
+
+<div class="playingCards simpleCards">
+  <span class="card back">*</span>
+  <span
+    *ngFor="let card of cards"
+    class="card rank-{{ card.rank }} {{ card.suit }}"
+  >
+    <span class="rank">{{ card.rank }}</span>
+    <span class="suit">{{ card.suit }}</span>
+  </span>
+
+  <!-- <span [ngSwitch]='card.suit' class="card rank-">
+    <span *ngSwitchCase="clubs">&clubs;</span>
+    <span *ngSwitchCase="spades">&spades;</span>
+    <span *ngSwitchCase="clubs">&clubs;</span>
+    <span *ngSwitchCase="clubs">&clubs;</span>
+  </span> -->
+</div>

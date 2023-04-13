@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "oSu3MRNcV21sFylFDmSEwntssEljDZX+TlUv62MEIcs=",
+  "Source": "BlackIsJack",
+  "BasePath": "_content/BlackIsJack",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BlackIsJack/wwwroot",
+      "Source": "BlackIsJack",
+      "ContentRoot": "/Users/kyleloudin/Desktop/repo/BlackIsJack/wwwroot/",
+      "BasePath": "_content/BlackIsJack",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/kyleloudin/Desktop/repo/BlackIsJack/wwwroot/favicon.ico",
+      "SourceId": "BlackIsJack",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/kyleloudin/Desktop/repo/BlackIsJack/wwwroot/",
+      "BasePath": "_content/BlackIsJack",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/favicon.ico"
+    }
+  ]
+}

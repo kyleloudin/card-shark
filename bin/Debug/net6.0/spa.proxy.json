@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:44446",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "/Users/kyleloudin/Desktop/repo/BlackIsJack/ClientApp/",
+"MaxTimeoutInSeconds": "120"
+}
+}

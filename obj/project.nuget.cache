@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "t/va4C0sAS15txwwdXzu1KvaOuY0b2rTt9+fgCxjIQxImXhc4KS/ivTZxaMb/DTx9iZplxXB5NlDeqnSBvFJyA==",
+  "success": true,
+  "projectFilePath": "/Users/kyleloudin/Desktop/repo/BlackIsJack/BlackIsJack.csproj",
+  "expectedPackageFiles": [
+    "/Users/kyleloudin/.nuget/packages/microsoft.aspnetcore.spaproxy/6.0.11/microsoft.aspnetcore.spaproxy.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
